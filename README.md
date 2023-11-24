@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Ayo-da-dev (BaByDev).
+- 👋 Hi there, I’m @Ay0miDev (BaByDev).
 -     🚀 Front-end Developer | 📚 Tech Enthusiast | 💻 Open Source Contributor
 - 👀 I’m interested in always learning and perfecting my skills in front-end development.
 - 🌱 I’m currently learning HTML and CSS. i tend to Explore the digital universe one line of code at a time. Passionate about creating software that makes a difference and solving challenging problems.
@@ -17,7 +17,7 @@
       Website:
 
 <!---
-Ayo-da-dev/Ayo-da-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ay0miDev/Ay0miDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 📝 Check out my projects below and feel free to collaborate or drop me a message. I'm always excited to work on new and exciting projects!
